@@ -1,0 +1,24 @@
+body{
+	font-family: "microsoft yahei";
+	font-size: 62.5%;
+	background-color: #ededed;
+	color: #888;
+}
+
+*{
+	margin: 0; padding: 0;
+}
+
+#cvs{
+	display: block;
+	z-index: -9999;
+	border: .1rem solid black;
+}
+
+.ctnr{
+	margin: 0 auto;
+	width: 97.5%;
+	margin-top: 10px;
+	position: relative;
+	/*border: 1px solid black;*/
+}

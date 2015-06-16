@@ -1,0 +1,14 @@
+{
+  "name": "common",
+  "homepage": "https://github.com/poilkjmn22/common",
+  "_release": "bc5074c844",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bc5074c844462e15ac802c230821bbef42638749"
+  },
+  "_source": "https://github.com/poilkjmn22/common.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/poilkjmn22/common.git",
+  "_direct": true
+}
